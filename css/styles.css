@@ -1,0 +1,42 @@
+
+/* estilos generales*/
+header{
+    text-align: center;
+    padding: 30px;
+    background-color: bisque;
+}
+header nav ul{
+    background-color: bisque;
+}
+header nav ul li{
+    background-color: rgb(153, 46, 253);
+    display: inline-block;
+    list-style: none;
+    padding: 15px;
+    margin: 20px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+/*estilos del index*/
+main{
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 100px;
+
+}
+h3{
+    margin: 25px;
+}
+
+h2{
+    margin: 20px;
+}
+
