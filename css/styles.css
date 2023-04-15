@@ -185,3 +185,17 @@ footer {
   text-decoration: none;
 
 }
+
+/*mq de  tablet   */
+@media screen and (min-width:600px){
+  
+  header{
+    background-color: aqua;
+    
+  }
+  main{
+    
+
+    
+  }
+}
