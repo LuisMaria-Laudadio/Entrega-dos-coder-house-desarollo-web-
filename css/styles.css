@@ -9,6 +9,7 @@
 header {
   text-align: center;
   padding: 30px;
+  background-color: rgb(0, 0, 0);
 }
 header nav div a img {
   height: 200px;
@@ -20,7 +21,7 @@ header nav div button span img {
 }
 
 header nav ul {
-  background-color: #c2c231;
+  background-color: #444442;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   font-size: larger;
   font-style: italic;
