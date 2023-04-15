@@ -9,7 +9,7 @@
 header {
   text-align: ce;
   padding: 30px;
-  background-color: rgb(0, 0, 0);
+  background-color: rgb(216, 13, 13);
 }
 header nav div a img {
   height: 200px;
@@ -157,10 +157,9 @@ footer {
 }
 
 .ig-link {
-
 }
-.tktk-link 
-
+.tktk-link {
+}
 
 /*mq de  tablet   */
 @media screen and (min-width: 600px) {
