@@ -7,9 +7,8 @@
 /* estilos generales*/
 
 header {
-  text-align: ce;
+  text-align: center;
   padding: 30px;
-  background-color: rgb(216, 13, 13);
 }
 header nav div a img {
   height: 200px;
@@ -21,7 +20,7 @@ header nav div button span img {
 }
 
 header nav ul {
-  background-color: #444442;
+  background-color: #c2c231;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   font-size: larger;
   font-style: italic;
