@@ -15,6 +15,10 @@ header nav div a img {
   height: 200px;
   width: 200px;
 }
+header nav div button span img {
+  height: 200px;
+  width: 200px;
+}
 
 header nav ul {
   background-color: #444442;
@@ -42,11 +46,13 @@ main {
   background-color: #7f47dd;
 }
 
-footer {
-  height: 100px;
-  text-align: center;
-  background-color: #7f47dd;
+h1{
+  font-family: 'Blaka Hollow', cursive;
+  font-weight: bold;
+  padding-bottom: 120px;
+  margin-left: 40px;
 }
+
 h3 {
   margin: 20px;
 }
@@ -54,6 +60,13 @@ h3 {
 h2 {
   margin: 20px;
 }
+
+footer {
+  height: 100px;
+  text-align: center;
+  background-color: #7f47dd;
+}
+
 .contenedor-img-uno {
   display: inline-block;
   display: flex;
@@ -94,6 +107,43 @@ h2 {
   gap: 40px;
 }
 
+.contenedor-img-drops-uno{
+  display: inline-block;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 100px;
+  margin-bottom: 60px;
+}
+
+.contenedor-img-drops-dos{
+  display: inline-block;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 100px;
+  margin-bottom: 80px;
+}
+.drop-uno{
+  position: relative;
+  top: 70px;
+}
+
+.drop-dos{
+  position: relative;
+  top: 80px;
+}
+
+.drop-tres{
+  position: relative;
+  top: 10px;
+}
+
+.drop-cuatro{
+  position: relative;
+  top: 61px;
+}
+
 .hijos-img-relative-tres {
   position: relative;
   top: -15px;
@@ -102,4 +152,30 @@ h2 {
 .hijos-img-relative-cuatro {
   position: relative;
   top: 56px;
+}
+
+
+.ig-link{
+  display: block;
+  width: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  border-radius: 10px;
+  padding: 11px;
+  margin-left: 340px;
+  color: #7f47dd;
+  text-decoration: none;
+
+}
+.tktk-link{
+  display: block;
+  width: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  border-radius: 10px;
+  padding: 11px;
+  margin-left: 340px;
+  color: #7f47dd;
+  text-decoration: none;
+
 }
