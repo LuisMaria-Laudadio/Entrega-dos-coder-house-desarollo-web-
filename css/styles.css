@@ -157,33 +157,25 @@ footer {
 }
 
 .ig-link {
-  display: block;
-  width: 200px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 700;
-  border-radius: 10px;
-  padding: 11px;
-  margin-left: 340px;
-  color: #7f47dd;
-  text-decoration: none;
+
 }
-.tktk-link {
-  display: block;
-  width: 200px;
-  font-family: Arial, Helvetica, sans-serif;
-  font-weight: 700;
-  border-radius: 10px;
-  padding: 11px;
-  margin-left: 340px;
-  color: #7f47dd;
-  text-decoration: none;
-}
+.tktk-link 
+
 
 /*mq de  tablet   */
 @media screen and (min-width: 600px) {
   header {
     background-color: aqua;
   }
-  main {
-  }
+  /*.tktk-link{
+    display: block;
+    width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    border-radius: 10px;
+    padding: 11px;
+    margin-left: 340px;
+    color: #7f47dd;
+    text-decoration: none;
+  }*/
 }
