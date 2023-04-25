@@ -40,6 +40,7 @@ header nav ul li a {
 }
 /*estilos del index*/
 main {
+
   text-align: center;
   padding: 10px;
   margin: 0px;
@@ -138,10 +139,7 @@ footer {
 }
 
 /*mq de  tablet   */
-@media screen and (min-width: 600px) {
-  header {
-    background-color: aqua;
-  }
+@media screen and (min-width: 520px) {
   .drop-uno {
     position: relative;
     top: 35px;
@@ -162,3 +160,7 @@ footer {
     top: 61px;
   }
 }
+@media screen and (min-width: 1024px){
+
+}
+
